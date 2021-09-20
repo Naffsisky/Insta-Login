@@ -7,14 +7,16 @@
 
 ## Cara Install
 1. Pip Selenium
-  Buka CMD / Terminal : ```javascript
+Buka CMD / Terminal : 
+```javascript
 pip install selenium
 ```
 
 2. Chrome driver
   Download sesuai chrome/firefox/anythink u web browser
   lalu letakkan di folder
-  ```javascript
+  
+```javascript
 C:\Program Files (x86)\chromedriver_win32\chromedriver
 ```
 
