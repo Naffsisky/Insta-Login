@@ -22,7 +22,7 @@ C:\Program Files (x86)\chromedriver_win32\chromedriver
 
 ## Cara Run
 ```javascript
-C:\Program Files (x86)\chromedriver_win32\chromedriver
+git clone https://github.com/Naffsisky/Insta-Login.git
 ```
 
 
